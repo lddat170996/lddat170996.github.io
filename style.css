@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+}
+
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif;
+color: white;}
+
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+
+    -o-transform: rotate(90deg);
+
+    transform: rotate(90deg);
+}
+
+#main-picturesize {  width: 50%;  height: auto; align-content: center;}
+
